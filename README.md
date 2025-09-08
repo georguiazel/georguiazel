@@ -63,7 +63,7 @@ I’m passionate about **automation, cloud computing, and software development**
 ## 🌍 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/georgui-azel-pacheco-sandoval/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn"/>
   </a>
 </div>
