@@ -1,54 +1,59 @@
-# 👋 Hi there! Welcome to my GitHub profile
-
 ![image_readme](images/profile_readme.png)
 
-I’m passionate about **automation, cloud computing, and software development**, with hands-on experience in **DevOps, Cloud Platforms, and Full-Stack Development**. 🚀  
+
+# 👾 About Me
+
+
+I am a Systems and Computer Engineering graduate with solid experience in **cloud infrastructure implementation, automation, and optimization** across **multicloud environments (AWS, Azure, GCP)**.  
+
+I specialize in designing **scalable, secure, and efficient architectures** applying **Infrastructure as Code (IaC)** with **Terraform, Ansible**, and orchestrating **microservices with Kubernetes and Helm**.  
+
+💡 Key achievements:  
+- 🚀 Reduced deployment times by **up to 60%** through CI/CD pipelines with **Jenkins, GitHub Actions, and Azure DevOps**.  
+- 📊 Strengthened system reliability with **proactive monitoring solutions** using **Google Cloud Monitoring and Datadog**.  
+- 🎓 Certified as **AWS Solutions Architect – Associate** with additional training in **Google Cloud Platform**.  
+
+I am passionate about **innovation, automation, and continuous improvement**, committed to delivering **technical excellence and strategic vision** in **DevOps, Cloud Computing, and Operations Automation**.  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ DevOps Tech Stack
 
-<div align="center" style="background-color:#0d1117; padding:15px; border-radius:12px;">
+<div align="center">
 
-  <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="Amazon Web Services" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Microsoft Azure" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="Google Cloud" />
+| |  |
+|--------------|------------------|
+| ☁️ Cloud Platforms | <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/> <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure"/> <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP"/> |
+| 🏗️ Infrastructure as Code | <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform"/> <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="Ansible"/> |
+| 🐳 Containers & Orchestration | <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/> <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/> |
+| 🔄 CI/CD & Automation | <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins"/> <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions"/> |
+| ⚙ Tools | <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/> <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux"/> |
+| 📦 Source Code Management | <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/> <img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="bitbucket"/>  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab"/> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/> |
+| 👨‍💻 Programming & Frameworks | <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/> <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/> <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js"/> <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/> |
 
-  <br/><br/>
+</div> 
 
-  <!-- IaC & Automation -->
-  <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="Terraform" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="60" alt="Ansible" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="Kubernetes" />
 
-  <br/><br/>
+---
 
-  <!-- CI/CD & Tools -->
-  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="Jenkins" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="Nginx" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
 
-  <br/><br/>
+<div align="center">
 
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
+## 🏅 Google Cloud Skills Boost
+
+<div align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/d409a326-4481-4542-98ca-c0c4b92aaf91" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud Skills Boost" width="100"/>
+    <br/>
+    <b>View my Google Cloud Skills Boost Profile</b>
+  </a>
+</div>
+
+
+
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -65,6 +70,9 @@ I’m passionate about **automation, cloud computing, and software development**
 <div align="center">
   <a href="https://www.linkedin.com/in/georgui-azel-pacheco-sandoval/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/georguiazel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="30" alt="GitHub"/>
   </a>
 </div>
 
