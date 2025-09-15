@@ -27,7 +27,7 @@ I am passionate about **innovation, automation, and continuous improvement**, co
 | 🏗️ Infrastructure as Code | <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform"/> <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="Ansible"/> |
 | 🐳 Containers & Orchestration | <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/> <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/> |
 | 🔄 CI/CD & Automation | <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins"/> <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions"/> |
-| ⚙ Tools | <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/> <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux"/> |
+| ⚙ Tools | <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/><img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash"/> <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux"/> |
 | 📦 Source Code Management | <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/> <img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="bitbucket"/>  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab"/> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/> |
 | 👨‍💻 Programming & Frameworks | <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/> <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/> <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js"/> <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/> |
 
