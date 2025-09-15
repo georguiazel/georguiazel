@@ -74,6 +74,9 @@ I am passionate about **innovation, automation, and continuous improvement**, co
   <a href="https://github.com/georguiazel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="30" alt="GitHub"/>
   </a>
+  <div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FrbmJ6N2VzZGdzaXo4Z2t1NDYxNWpob2hueDN2ZHB0aXZjbXQwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="300"/>
+</div>
 </div>
 
 ---
