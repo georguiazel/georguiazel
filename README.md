@@ -9,8 +9,6 @@ I am a Systems and Computer Engineering graduate with solid experience in **clou
 I specialize in designing **scalable, secure, and efficient architectures** applying **Infrastructure as Code (IaC)** with **Terraform, Ansible**, and orchestrating **microservices with Kubernetes and Helm**.  
 
 💡 Key achievements:  
-- 🚀 Reduced deployment times by **up to 60%** through CI/CD pipelines with **Jenkins, GitHub Actions, and Azure DevOps**.  
-- 📊 Strengthened system reliability with **proactive monitoring solutions** using **Google Cloud Monitoring and Datadog**.  
 - 🎓 Certified as **AWS Solutions Architect – Associate** with additional training in **Google Cloud Platform**.  
 
 I am passionate about **innovation, automation, and continuous improvement**, committed to delivering **technical excellence and strategic vision** in **DevOps, Cloud Computing, and Operations Automation**.  
