@@ -20,18 +20,34 @@ I am passionate about **innovation, automation, and continuous improvement**, co
 # 🛠️ DevOps Tech Stack
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
+<img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure"/>
+<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP"/>
+<img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform"/>
+<img src="https://skillicons.dev/icons?i=ansible" height="40" alt="Ansible"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/>
+<img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins"/>
+<img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions"/>
+<img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus"/>
+<img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana"/>
+<img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="Elasticsearch"/>
+<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js"/>
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab"/>
+<img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="Bitbucket"/>
+<img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>
+<img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
+<img src="https://skillicons.dev/icons?i=sonarqube" height="40" alt="Sonarqube"/>
 
-| |  |
-|--------------|------------------|
-| ☁️ Cloud Platforms | <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/> <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure"/> <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP"/> |
-| 🏗️ Infrastructure as Code | <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform"/> <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="Ansible"/> |
-| 🐳 Containers & Orchestration | <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/> <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/> |
-| 🔄 CI/CD & Automation | <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins"/> <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions"/> |
-| ⚙ Tools | <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/><img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash"/> <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux"/> |
-| 📦 Source Code Management | <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/> <img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="bitbucket"/>  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab"/> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/> |
-| 👨‍💻 Programming & Frameworks | <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/> <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/> <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js"/> <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/> |
-
-</div> 
+</div>
 
 
 ---
